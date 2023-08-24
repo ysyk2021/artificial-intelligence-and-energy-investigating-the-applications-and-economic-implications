@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) has become an increasingly important tool in the energy industry, enabling organizations to optimize resource use, reduce costs, and improve overall efficiency. Machine learning, a subset of AI, is particularly well-suited for many energy-related applications. In this chapter, we will explore the fundamentals of machine learning techniques and their applications in the energy industry.
 

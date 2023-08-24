@@ -1,5 +1,3 @@
-Energy Forecasting and Optimization
-===========================================================================
 
 Artificial intelligence (AI) has the potential to transform the way we forecast energy demand and optimize energy production and consumption. In this chapter, we will explore some of the specific AI-powered energy solutions that are currently being developed and implemented in the energy industry.
 

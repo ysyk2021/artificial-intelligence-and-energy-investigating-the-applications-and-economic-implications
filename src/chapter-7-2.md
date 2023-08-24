@@ -1,5 +1,3 @@
-Legal Framework
-============================================================================
 
 As the energy industry continues to embrace artificial intelligence (AI) technologies, there are a number of ethical and legal issues that need to be considered to ensure the responsible and safe use of these technologies. In this chapter, we will explore the legal framework that applies to the use of AI in the energy sector.
 

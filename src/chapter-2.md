@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Before delving into the applications and economic implications of artificial intelligence (AI) in the energy industry, it is important to have an understanding of the basics of AI. This chapter will explore the history of AI, the different types of AI, and machine learning techniques.
 

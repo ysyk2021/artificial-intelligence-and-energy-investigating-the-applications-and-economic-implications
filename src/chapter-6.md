@@ -1,5 +1,3 @@
-Chapter 6: Economic Implications of AI in Energy
-================================================
 
 Artificial intelligence (AI) is transforming the energy industry by enabling more efficient, sustainable, and cost-effective energy solutions. In this chapter, we will explore the economic implications of AI in energy, including its impact on cost savings, efficiency improvements, job creation, and training needs.
 

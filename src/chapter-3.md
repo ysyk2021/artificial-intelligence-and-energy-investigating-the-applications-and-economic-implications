@@ -1,5 +1,3 @@
-Chapter 3: Energy Landscape
-===========================
 
 In order to understand the potential impact of artificial intelligence (AI) in the energy industry, it is important to have an understanding of the current energy landscape. This chapter will explore global trends in energy production and consumption, as well as the various components of the energy industry.
 

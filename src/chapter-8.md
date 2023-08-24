@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Energy
-==================================
 
 Future Prospects of AI and Energy
 ---------------------------------

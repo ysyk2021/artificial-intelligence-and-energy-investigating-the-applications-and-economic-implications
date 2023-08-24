@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Energy Solutions
-======================================
 
 Artificial intelligence (AI) is transforming the energy industry by enabling more efficient, cost-effective, and sustainable energy solutions. In this chapter, we will explore some of the key ways in which AI is powering energy solutions.
 

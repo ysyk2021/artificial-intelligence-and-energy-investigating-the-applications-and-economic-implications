@@ -1,5 +1,3 @@
-Components of the Energy Industry
-==============================================================
 
 The energy industry is a complex and multifaceted industry that encompasses a broad range of activities, including the exploration, extraction, generation, distribution, and consumption of various forms of energy. In this chapter, we will provide an overview of the components of the energy industry and their interrelationships.
 

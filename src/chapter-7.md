@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Energy
-===========================================================
 
 The integration of artificial intelligence (AI) in the energy industry has led to numerous ethical and legal issues that must be addressed. This chapter will explore the ethical considerations and legal framework surrounding AI in energy, including issues related to privacy, safety, and accountability.
 

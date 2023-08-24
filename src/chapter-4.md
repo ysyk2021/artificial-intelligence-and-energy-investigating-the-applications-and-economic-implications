@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Energy
-===============================
 
 Artificial intelligence (AI) is playing an increasingly important role in the energy industry by enabling more efficient, sustainable, and cost-effective energy solutions. In this chapter, we will explore the benefits of AI in energy as well as some of the challenges and limitations that must be considered.
 

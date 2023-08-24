@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Energy
-=======================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the energy industry, transforming the way we generate, distribute, and consume energy. In this chapter, we will provide an overview of AI and its key applications in the energy sector.
 

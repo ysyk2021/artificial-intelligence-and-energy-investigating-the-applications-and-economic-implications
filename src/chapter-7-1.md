@@ -1,5 +1,3 @@
-Ethical Considerations
-===================================================================================
 
 As the use of artificial intelligence (AI) in the energy industry grows, there are a number of ethical and legal issues that need to be considered. In this chapter, we will explore some of the key ethical considerations related to AI in the energy industry.
 

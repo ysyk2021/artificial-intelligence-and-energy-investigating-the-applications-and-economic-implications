@@ -1,5 +1,4 @@
-Chapter: Job Creation and Training Needs
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the implications of Artificial Intelligence (AI) applications in the energy industry for job creation and training needs. As intelligent technologies continue to advance and transform the energy sector, it is essential to understand how AI impacts employment opportunities and the skills required for the workforce of the future.
 

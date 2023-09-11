@@ -1,5 +1,4 @@
-Chapter: Benefits of AI in Energy
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that Artificial Intelligence (AI) brings to the energy industry. As intelligent technologies continue to advance, AI applications in the energy sector offer significant advantages in terms of efficiency, sustainability, cost-effectiveness, and reliability.
 

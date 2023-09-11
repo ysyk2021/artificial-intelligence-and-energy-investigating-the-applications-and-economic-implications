@@ -1,5 +1,4 @@
-Chapter: Cost Savings and Efficiency Improvements
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant cost savings and efficiency improvements that Artificial Intelligence (AI) brings to the energy industry. The applications of AI in various sectors of the energy industry enable streamlined operations, optimized resource allocation, and informed decision-making, resulting in substantial financial benefits.
 
